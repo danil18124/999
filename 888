@@ -1,5 +1,4 @@
 procedure TForm1.Button1Click(Sender: TObject);
-begin
 Memo1.lines.Clear; // Memo1
 x:=strtofloat(edit1.text);
 y:=strtofloat(edit2.text);
